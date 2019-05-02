@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Terry Beyak's blog]]></title>
+  <link href="http://terrybeyak.github.io/atom.xml" rel="self"/>
+  <link href="http://terrybeyak.github.io/"/>
+  <updated>2019-05-01T17:48:55-07:00</updated>
+  <id>http://terrybeyak.github.io/</id>
+  <author>
+    <name><![CDATA[Terry Beyak]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What to Do With an Idea That's Too Big]]></title>
+    <link href="http://terrybeyak.github.io/blog/2015/11/04/what-to-do-with-an-idea-thats-too-big/"/>
+    <updated>2015-11-04T21:28:39-08:00</updated>
+    <id>http://terrybeyak.github.io/blog/2015/11/04/what-to-do-with-an-idea-thats-too-big</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m saying good night to an idea I had almost exactly four years ago, because it was too big. I&rsquo;m only saying it&rsquo;s too big, because part of me is scared to admit a more likely scenario: it&rsquo;s not a good idea.</p>
+
+<p>I also hope there&rsquo;s some sort of middle ground, which is that it&rsquo;s an interesting premise, currently infeasible, and could continue on in a different form.</p>
+
+<p>If anyone&rsquo;s squirming with anticipation, here&rsquo;s the idea. It&rsquo;s called Your Town. Your Town is an alternate reality game, wherein players act as policymakers in a fictional version of their hometown, and by passing the laws that they believe are best, the game makes them <em>feel</em> the effects of their policies.</p>
+
+<p>Some examples</p>
+
+<ul>
+<li>You pass a &ldquo;Tough on Crime&rdquo; bill that creates a violent black market. While driving down the street, you feel your phone buzz. You take it out, and you see an SMS that says, &ldquo;Because of the effects of Measure M, you were shot in a drive-by while driving down College Ave.&rdquo;</li>
+<li>You relax conservation laws, and while taking a walk through Howarth Park, you can take out your phone, pan it around and instead of seeing trees/ a lake / paths, you see a subdivision all around you.</li>
+<li>You remove a farm subsidy, so after going to the grocery store, instead of your credit card bill being $70, it was now $110.</li>
+</ul>
+
+
+<p>Of course all the data supporting the effects of these policies would be researched with care. I have - and would have - no particular political agenda. My premise is, people are emotional in their political beliefs, and&hellip; that&rsquo;s bad. Politics, in my rampantly idealistic opinion, should be based in reasonable conclusions about how to organize society. If you were, then, to present people with the &ldquo;actual&rdquo; real-world implications of their political beliefs (enacted because they are playing policymakers) that delta between belief and reality could close. Not by rational argument, but by emotional experience.</p>
+
+<p>You might have already come to this conclusion: this idea is absurdly infeasible; the scholarly database alone about policies and their effects is the work of several lifetimes. The creative implementation of each effect through smart phones or various media is an engineering feat of a multi-million dollar startup. And all of that comes on top of a backdrop of the first question, can you map policies and their effects on the real world so cleanly? In so many situations, randomness, non-linear dynamics are far more meaningful to Why Things Happen than a given policy.</p>
+
+<p>So I can&rsquo;t think of any other option than to file this one away. I still feel there&rsquo;s an interesting project to be undertaken in the realm of political belief, emotion, and gaming, but it&rsquo;s not this one.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Flexbox Is Awesome]]></title>
+    <link href="http://terrybeyak.github.io/blog/2015/03/28/flexbox-is-awesome/"/>
+    <updated>2015-03-28T10:58:22-07:00</updated>
+    <id>http://terrybeyak.github.io/blog/2015/03/28/flexbox-is-awesome</id>
+    <content type="html"><![CDATA[<p>It burbled to my consciousness as if waking from a dream. CSS3 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes" title="CSS3 Flexbox">Flexbox</a> is a tool meant for the modern age of web design, at least as my company understands it.</p>
+
+<p>So much of this CSS tool works the way I want a tool to work: I want to set a container element, like a div, and define <em>generally</em> how its nested elements should behave. Then, I want to, for each item, define CSS rules to describe specifically how it should act.</p>
+
+<p>This is how front-end web developers think. We don&rsquo;t think in terms of mathematical dryness like &ldquo;margin: 5px 0 10px 0;&rdquo;. We want to say something like, &ldquo;ok all you list-items, start out pushed up against the right side of your container, and extend leftward as far as you can go.&rdquo;</p>
+
+<p>P.S. That would be ul { display: flex; justify-content: flex-end; }</p>
+
+<p>It strikes me that the irony is, it took a few decades in order for the W3C to define how developers and designers have been thinking this whole time. It makes me wonder if it was a matter of browser sophistication, or it took that governing body a while to figure out how best to implement it.</p>
+
+<p>The matter of exploring how a governing body of a technology or suite of software operates ought to be the subject of another post.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What I Don't Know]]></title>
+    <link href="http://terrybeyak.github.io/blog/2015/01/03/what-i-dont-know/"/>
+    <updated>2015-01-03T10:40:57-08:00</updated>
+    <id>http://terrybeyak.github.io/blog/2015/01/03/what-i-dont-know</id>
+    <content type="html"><![CDATA[<p>I take very seriously the adage that the first step towards wisdom is admitting that you do not know. I consider myself a relatively new programmer; moreover, my educational path was non-standard, and as such, there&rsquo;s a lot I do not know about programming, software, computers, and the development process. Lastly, and perhaps most importantly, I have yet to hear of a Theory of Introspection, i.e. a replicable system for identifying gaps in one&rsquo;s knowledge, and filling them.</p>
+
+<p>The closest thing I have heard of, is writing. So here I am, blogging about what I know, and do not know, about programming and web development. In so doing, my hope is to write about my continuing discovery process of the things would like to learn. I&rsquo;ll be describing what I think I know, and what I still don&rsquo;t yet.</p>
+
+<p>My suspicion is that some people will balk at the notion of admitting ignorance. It&rsquo;s not done often in our culture; the trends towards self-branding ego stroking are too strong. Moreover, am I putting my weaknesses on display for the world to ruthlessly mock? Yes possibly. But here we are.</p>
+
+<p>And here we go.</p>
+
+<p>Some things about which I don&rsquo;t know, but would like to know more, are as follows (in no particular order):</p>
+
+<ol>
+<li>AngularJS</li>
+<li>iOS Development</li>
+<li>Go</li>
+<li>Machine Learning</li>
+<li>JSON-RPC</li>
+<li>Bitcoin</li>
+<li>Macroeconomics</li>
+<li>Cosmology</li>
+</ol>
+
+
+<p>The things I know a little bit about, but would like to get much better at, are these:</p>
+
+<ol>
+<li>Drupal</li>
+<li>Ruby on Rails</li>
+<li>Git</li>
+<li>BackboneJS</li>
+<li>the DNS system</li>
+</ol>
+
+
+<p>These two lists could go on quite comedically, but I&rsquo;ll stop there. The next post will likely be a little bit about Git.</p>
+]]></content>
+  </entry>
+  
+</feed>
