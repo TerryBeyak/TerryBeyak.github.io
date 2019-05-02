@@ -6,10 +6,19 @@ comments: true
 sharing: true
 footer: true
 ---
+## <a name="dungeon-democracy"></a> Dungeon Democracy 
 
-## Somnambulist
+<video src="https://dl.dropboxusercontent.com/s/btty9mlmwe0k6m4/Dungeon%20Democracy%20Clip.mp4?dl=0" width="560" height="315" controls></video>
 
-<h2 id="somnambulist">Somnambulist</h2>
+A dungeon-crawler type game in the style of Diablo or Path of Exile, but whose gameplay can be influenced by spectators voting for 
+certain effects to occur in the game (providing the player with special arrow types, harming the boss, healing the player). Effects can be 
+beneficial to the player, detrimental, or simply require a change in player strategy in order to defeat the boss.
+
+Designed in collaboration with Christopher Hyunh and Bianka Kovacs. 
+
+Built in Unity, specifically with an integration to the Mixer streaming platform.
+
+## <a name="somnambulist"></a> Somnambulist
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tO1klUQVris" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
