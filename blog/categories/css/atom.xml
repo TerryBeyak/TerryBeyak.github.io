@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Css | Terry Beyak's blog]]></title>
-  <link href="http://terrybeyak.github.io/blog/categories/css/atom.xml" rel="self"/>
-  <link href="http://terrybeyak.github.io/"/>
-  <updated>2019-05-01T17:48:55-07:00</updated>
-  <id>http://terrybeyak.github.io/</id>
+  <link href="http://www.terrybeyak.com/blog/categories/css/atom.xml" rel="self"/>
+  <link href="http://www.terrybeyak.com/"/>
+  <updated>2019-05-01T18:12:48-07:00</updated>
+  <id>http://www.terrybeyak.com/</id>
   <author>
     <name><![CDATA[Terry Beyak]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Flexbox Is Awesome]]></title>
-    <link href="http://terrybeyak.github.io/blog/2015/03/28/flexbox-is-awesome/"/>
+    <link href="http://www.terrybeyak.com/blog/2015/03/28/flexbox-is-awesome/"/>
     <updated>2015-03-28T10:58:22-07:00</updated>
-    <id>http://terrybeyak.github.io/blog/2015/03/28/flexbox-is-awesome</id>
+    <id>http://www.terrybeyak.com/blog/2015/03/28/flexbox-is-awesome</id>
     <content type="html"><![CDATA[<p>It burbled to my consciousness as if waking from a dream. CSS3 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes" title="CSS3 Flexbox">Flexbox</a> is a tool meant for the modern age of web design, at least as my company understands it.</p>
 
 <p>So much of this CSS tool works the way I want a tool to work: I want to set a container element, like a div, and define <em>generally</em> how its nested elements should behave. Then, I want to, for each item, define CSS rules to describe specifically how it should act.</p>

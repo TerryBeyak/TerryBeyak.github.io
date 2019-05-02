@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Terry Beyak's blog]]></title>
-  <link href="http://terrybeyak.github.io/atom.xml" rel="self"/>
-  <link href="http://terrybeyak.github.io/"/>
-  <updated>2019-05-01T17:48:55-07:00</updated>
-  <id>http://terrybeyak.github.io/</id>
+  <link href="http://www.terrybeyak.com/atom.xml" rel="self"/>
+  <link href="http://www.terrybeyak.com/"/>
+  <updated>2019-05-01T18:12:48-07:00</updated>
+  <id>http://www.terrybeyak.com/</id>
   <author>
     <name><![CDATA[Terry Beyak]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[What to Do With an Idea That's Too Big]]></title>
-    <link href="http://terrybeyak.github.io/blog/2015/11/04/what-to-do-with-an-idea-thats-too-big/"/>
+    <link href="http://www.terrybeyak.com/blog/2015/11/04/what-to-do-with-an-idea-thats-too-big/"/>
     <updated>2015-11-04T21:28:39-08:00</updated>
-    <id>http://terrybeyak.github.io/blog/2015/11/04/what-to-do-with-an-idea-thats-too-big</id>
+    <id>http://www.terrybeyak.com/blog/2015/11/04/what-to-do-with-an-idea-thats-too-big</id>
     <content type="html"><![CDATA[<p>I&rsquo;m saying good night to an idea I had almost exactly four years ago, because it was too big. I&rsquo;m only saying it&rsquo;s too big, because part of me is scared to admit a more likely scenario: it&rsquo;s not a good idea.</p>
 
 <p>I also hope there&rsquo;s some sort of middle ground, which is that it&rsquo;s an interesting premise, currently infeasible, and could continue on in a different form.</p>
@@ -43,9 +43,9 @@
   
   <entry>
     <title type="html"><![CDATA[Flexbox Is Awesome]]></title>
-    <link href="http://terrybeyak.github.io/blog/2015/03/28/flexbox-is-awesome/"/>
+    <link href="http://www.terrybeyak.com/blog/2015/03/28/flexbox-is-awesome/"/>
     <updated>2015-03-28T10:58:22-07:00</updated>
-    <id>http://terrybeyak.github.io/blog/2015/03/28/flexbox-is-awesome</id>
+    <id>http://www.terrybeyak.com/blog/2015/03/28/flexbox-is-awesome</id>
     <content type="html"><![CDATA[<p>It burbled to my consciousness as if waking from a dream. CSS3 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes" title="CSS3 Flexbox">Flexbox</a> is a tool meant for the modern age of web design, at least as my company understands it.</p>
 
 <p>So much of this CSS tool works the way I want a tool to work: I want to set a container element, like a div, and define <em>generally</em> how its nested elements should behave. Then, I want to, for each item, define CSS rules to describe specifically how it should act.</p>
@@ -62,9 +62,9 @@
   
   <entry>
     <title type="html"><![CDATA[What I Don't Know]]></title>
-    <link href="http://terrybeyak.github.io/blog/2015/01/03/what-i-dont-know/"/>
+    <link href="http://www.terrybeyak.com/blog/2015/01/03/what-i-dont-know/"/>
     <updated>2015-01-03T10:40:57-08:00</updated>
-    <id>http://terrybeyak.github.io/blog/2015/01/03/what-i-dont-know</id>
+    <id>http://www.terrybeyak.com/blog/2015/01/03/what-i-dont-know</id>
     <content type="html"><![CDATA[<p>I take very seriously the adage that the first step towards wisdom is admitting that you do not know. I consider myself a relatively new programmer; moreover, my educational path was non-standard, and as such, there&rsquo;s a lot I do not know about programming, software, computers, and the development process. Lastly, and perhaps most importantly, I have yet to hear of a Theory of Introspection, i.e. a replicable system for identifying gaps in one&rsquo;s knowledge, and filling them.</p>
 
 <p>The closest thing I have heard of, is writing. So here I am, blogging about what I know, and do not know, about programming and web development. In so doing, my hope is to write about my continuing discovery process of the things would like to learn. I&rsquo;ll be describing what I think I know, and what I still don&rsquo;t yet.</p>
